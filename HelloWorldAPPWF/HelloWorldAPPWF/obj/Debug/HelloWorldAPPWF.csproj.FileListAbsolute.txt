@@ -1,0 +1,16 @@
+C:\Users\79185\source\repos\HelloWorldAPPWF\HelloWorldAPPWF\bin\Debug\HelloWorldAPPWF.exe.config
+C:\Users\79185\source\repos\HelloWorldAPPWF\HelloWorldAPPWF\bin\Debug\HelloWorldAPPWF.exe
+C:\Users\79185\source\repos\HelloWorldAPPWF\HelloWorldAPPWF\bin\Debug\HelloWorldAPPWF.pdb
+C:\Users\79185\source\repos\HelloWorldAPPWF\HelloWorldAPPWF\obj\Debug\HelloWorldAPPWF.csproj.AssemblyReference.cache
+C:\Users\79185\source\repos\HelloWorldAPPWF\HelloWorldAPPWF\obj\Debug\HelloWorldAPPWF.csproj.SuggestedBindingRedirects.cache
+C:\Users\79185\source\repos\HelloWorldAPPWF\HelloWorldAPPWF\obj\Debug\MainWindow.g.cs
+C:\Users\79185\source\repos\HelloWorldAPPWF\HelloWorldAPPWF\obj\Debug\App.g.cs
+C:\Users\79185\source\repos\HelloWorldAPPWF\HelloWorldAPPWF\obj\Debug\HelloWorldAPPWF_MarkupCompile.cache
+C:\Users\79185\source\repos\HelloWorldAPPWF\HelloWorldAPPWF\obj\Debug\HelloWorldAPPWF_MarkupCompile.lref
+C:\Users\79185\source\repos\HelloWorldAPPWF\HelloWorldAPPWF\obj\Debug\MainWindow.baml
+C:\Users\79185\source\repos\HelloWorldAPPWF\HelloWorldAPPWF\obj\Debug\HelloWorldAPPWF.g.resources
+C:\Users\79185\source\repos\HelloWorldAPPWF\HelloWorldAPPWF\obj\Debug\HelloWorldAPPWF.Properties.Resources.resources
+C:\Users\79185\source\repos\HelloWorldAPPWF\HelloWorldAPPWF\obj\Debug\HelloWorldAPPWF.csproj.GenerateResource.cache
+C:\Users\79185\source\repos\HelloWorldAPPWF\HelloWorldAPPWF\obj\Debug\HelloWorldAPPWF.csproj.CoreCompileInputs.cache
+C:\Users\79185\source\repos\HelloWorldAPPWF\HelloWorldAPPWF\obj\Debug\HelloWorldAPPWF.exe
+C:\Users\79185\source\repos\HelloWorldAPPWF\HelloWorldAPPWF\obj\Debug\HelloWorldAPPWF.pdb
